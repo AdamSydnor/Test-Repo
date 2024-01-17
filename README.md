@@ -12,7 +12,7 @@
 _Collaborate and work together on GitHub._
 
 </header>
-
+<p>This project suck and I think we should just stop!</p>
 <!--
   <<< Author notes: Step 6 >>>
   Start this step by acknowledging the previous step.
